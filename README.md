@@ -7,7 +7,7 @@ Instruksi/project portfolio: Studi kasus sistem reservasi perawatan kecantikan (
 
 ---
 
-## Latar Belakang Proyek
+# Latar Belakang Proyek
 
 Studio kecantikan dan kursus *eyelash* membutuhkan sistem yang efisien untuk mengatur jadwal janji temu pelanggan, pembayaran uang muka (*down payment*), dan pelacakan program loyalitas. Sebelumnya, proses pemesanan dilakukan secara manual melalui pesan WhatsApp. Hal ini menimbulkan sejumlah kendala:
 - **Resiko *Double-Booking*:** Sering terjadi tabrakan jadwal antarpelanggan karena pencatatan manual di buku agenda atau chat.
@@ -19,7 +19,7 @@ Studio kecantikan dan kursus *eyelash* membutuhkan sistem yang efisien untuk men
 
 ---
 
-## Peran & Tanggung Jawab
+# Peran & Tanggung Jawab
 
 Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer** untuk merancang arsitektur sistem, merancang basis data, hingga mengimplementasikannya ke antarmuka pengguna yang interaktif. Tanggung jawab utama saya meliputi:
 
@@ -32,7 +32,7 @@ Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer** untuk
 
 ---
 
-## Teknologi yang Digunakan (Tech Stack)
+# Teknologi yang Digunakan (Tech Stack)
 
 - **Backend:** PHP 8.2+, Laravel 12 Framework (Eloquent ORM, Events & Queue)
 - **Frontend & SPA Bridge:** React 18, Inertia.js v2
@@ -44,7 +44,7 @@ Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer** untuk
 
 ---
 
-## Fitur Utama
+# Fitur Utama
 
 - **Reservasi Mandiri & Kalkulasi Add-on Otomatis:** Pelanggan dapat memilih treatment, opsi tambahan (seperti *lash remover* atau serum vitamin), dan sistem langsung mengkalkulasi total durasi pengerjaan serta biaya DP.
 - **Pembayaran DP Instan (QRIS & E-Wallet):** Notifikasi pembayaran terverifikasi dalam hitungan detik dengan batas waktu kedaluwarsa 30 menit untuk mencegah penimbunan slot jadwal.
@@ -54,7 +54,7 @@ Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer** untuk
 
 ---
 
-## Dampak & Hasil (Impact)
+# Dampak & Hasil (Impact)
 
 Berikut adalah penyelesaian masalah utama (*problem solving*) yang berhasil dicapai melalui sistem ini:
 
@@ -73,7 +73,7 @@ Berikut adalah penyelesaian masalah utama (*problem solving*) yang berhasil dica
 
 ---
 
-## Tampilan Antarmuka Sistem
+# Tampilan Antarmuka Sistem
 
 - **Halaman Pemesanan, Pemilihan Treatment Pelanggan, DOB Pin**
   <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b1f31969-1bb0-41bb-9712-7e3a32865e59" />
