@@ -47,7 +47,7 @@ Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer** untuk
 # Fitur Utama
 
 - **Reservasi Mandiri & Kalkulasi Add-on Otomatis:** Pelanggan dapat memilih treatment, opsi tambahan (seperti *lash remover* atau serum vitamin), dan sistem langsung mengkalkulasi total durasi pengerjaan serta biaya DP.
-- **Pembayaran DP Instan (QRIS & E-Wallet):** Notifikasi pembayaran terverifikasi dalam hitungan detik dengan batas waktu kedaluwarsa 30 menit untuk mencegah penimbunan slot jadwal.
+- **Pembayaran DP Instan (QRIS & E-Wallet):** Notifikasi pembayaran terverifikasi dalam hitungan detik dengan batas waktu kedaluwarsa 15 menit untuk mencegah penimbunan slot jadwal.
 - **Manajemen Jam Kerja & Slot Blackout:** Admin studio dapat mengatur jam operasional harian serta menutup (*blackout*) tanggal atau jam tertentu sewaktu-waktu jika studio libur.
 - **Portal Cek Pesanan & Program Loyalitas:** Pelanggan dapat memeriksa riwayat booking dan status voucher/reward gratis treatment berdasarkan akumulasi jumlah kunjungan.
 - **Dashboard Analitik & Rekap Reservasi:** Visualisasi grafik performa studio, konversi booking, dan ekspor kwitansi digital resmi berformat PDF.
@@ -66,7 +66,7 @@ Berikut adalah penyelesaian masalah utama (*problem solving*) yang berhasil dica
   - *Sesudah:* Sistem secara otomatis mengunci slot waktu begitu transaksi DP terverifikasi, **menghilangkan 100% risiko tabrakan jadwal**.
 - **Penurunan Angka Pembatalan Sepihak (*Ghost Bookings*):**
   - *Sebelumnya:* Banyak pelanggan tidak hadir (*no-show*) karena tidak ada uang muka yang mengikat.
-  - *Sesudah:* Pemberlakuan DP wajib via QRIS yang otomatis membatalkan pesanan yang tidak dibayar dalam 30 menit, memastikan hanya pelanggan serius yang memesan slot.
+  - *Sesudah:* Pemberlakuan DP wajib via QRIS yang otomatis membatalkan pesanan yang tidak dibayar dalam 15 menit, memastikan hanya pelanggan serius yang memesan slot.
 - **Digitalisasi Poin Loyalitas & Retensi Pelanggan:**
   - *Sebelumnya:* Kartu stempel fisik sering hilang atau lupa dibawa pelanggan, sehingga menyulitkan evaluasi program promo.
   - *Sesudah:* Jumlah kunjungan terakumulasi otomatis ke database nomor pelanggan, meningkatkan *repeat-order* dan kepuasan pelanggan secara transparan.
