@@ -1,4 +1,5 @@
-# HapsyLash — Automated Booking & Studio Management System
+# HapsyLash
+Automated Booking & Studio Management System
 
 Instruksi/project portfolio: Studi kasus sistem reservasi perawatan kecantikan (*eyelash extension & academy*) yang dikembangkan untuk digitalisasi pemesanan jadwal, otomatisasi pembayaran Down Payment (DP), serta manajemen operasional studio. Dilengkapi fitur manajemen slot jam kerja, program loyalitas pelanggan, dan dashboard analitik. Source code dibatasi untuk mematuhi NDA dan menjaga kerahasiaan data operasional studio serta privasi pelanggan. Halaman ini berfokus pada studi kasus, arsitektur sistem, dan penyelesaian masalah (*problem solving*).
 
